@@ -1,0 +1,164 @@
+body
+{
+  background-color: #f7a7cf;
+}
+#T1
+{
+  position: absolute;
+  background-color: #aedbf5;
+  left: 15%;
+  top: 10%;
+  width: 50px;
+  height: 300px;
+}
+
+#container{
+	margin: 0px;
+}
+.word
+ {
+	width: 100%;
+}
+#T2
+{
+  position: absolute;
+  background-color: #aedbf5;
+  left: 10%;
+  top: 10%;
+  width: 200px;
+  height: 50px;
+
+}
+
+#A1
+{
+  position: absolute;
+  background-color: #aedbf5;
+  left: 30%;
+  top: 10%;
+  width: 140px;
+  height: 50px;
+}
+
+#A2
+{
+position: absolute;
+background-color: #aedbf5;
+left: 28%;
+top: 10%;
+width: 50px;
+height: 300px;
+}
+
+#A3
+{
+position: absolute;
+background-color: #aedbf5;
+left: 37%;
+top: 10%;
+width: 50px;
+height: 300px;
+}
+
+#A4
+{
+  position: absolute;
+  background-color: #aedbf5;
+  left: 30%;
+  top: 20%;
+  width: 140px;
+  height: 50px;
+}
+
+#L1
+{
+  position: absolute;
+  background-color: #aedbf5;
+  left: 47%;
+  top: 10%;
+  width: 50px;
+  height: 300px;
+}
+
+#L2
+{
+  position: absolute;
+  background-color: #aedbf5;
+  left: 47%;
+  top: 39%;
+  width: 140px;
+  height: 50px;
+}
+
+
+#K1
+{
+  position: absolute;
+  background-color: #aedbf5;
+  left: 61%;
+  top: 10%;
+  width: 50px;
+  height: 300px;
+}
+
+#K2
+{
+  position: absolute;
+  background-color: #aedbf5;
+  left: 67%;
+  top: 9%;
+  width: 50px;
+  height: 156px;
+  -ms-transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+#K3
+{
+  position: absolute;
+  background-color: #aedbf5;
+  left: 66%;
+  top: 20%;
+  width: 50px;
+  height: 230px;
+  -ms-transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+    transform: rotate(-45deg);
+}
+
+.tree
+{
+  width: 0;
+    height: 0;
+    border-bottom:300px solid #319e35;
+    border-left: 90px solid transparent;
+    border-right: 90px solid transparent;
+    border-radius: 30%;
+    position: absolute;
+    left: 42%;
+    top: 50%;
+}
+
+
+.tree2{
+  width: 0;
+    height: 0;
+    border-bottom: 250px solid #1d4a21;
+    border-left: 90px solid transparent;
+    border-right: 90px solid transparent;
+    border-radius: 50%;
+    position: absolute;
+    left: 42%;
+    top: 50%;
+}
+.tree3{
+  width: 0;
+    height: 0px;
+    border-bottom: 160px solid #85b68e;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    position: absolute;
+    left: 47%;
+    top: 49%;
+}
